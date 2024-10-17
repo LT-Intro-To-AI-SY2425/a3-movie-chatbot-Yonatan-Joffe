@@ -25,6 +25,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],  # actors/actresses
     ),
     (
+        "Wolf of WallStreet",
+        "Martin Scorsese",
+        2013,
+        [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie",
+            "Matthew McConaughey",
+            "Kyle Chandler",
+        ]
+    ),
+    (
         "the big easy",
         "jim mcbride",
         1987,
